@@ -1,0 +1,16 @@
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\ShoppingCartProject.deps.json
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\ShoppingCartProject.runtimeconfig.json
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\ShoppingCartProject.runtimeconfig.dev.json
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\ShoppingCartProject.dll
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\ShoppingCartProject.pdb
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\ShoppingCart.dll
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\bin\Debug\netcoreapp2.2\ShoppingCart.pdb
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\obj\Debug\netcoreapp2.2\ShoppingCartProject.csprojResolveAssemblyReference.cache
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\obj\Debug\netcoreapp2.2\ShoppingCartProject.csproj.CoreCompileInputs.cache
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\obj\Debug\netcoreapp2.2\ShoppingCartProject.AssemblyInfoInputs.cache
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\obj\Debug\netcoreapp2.2\ShoppingCartProject.AssemblyInfo.cs
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\obj\Debug\netcoreapp2.2\ShoppingCartProject.dll
+C:\Users\ankadam\source\repos\ShoppingCart\ShoppingCartProject\obj\Debug\netcoreapp2.2\ShoppingCartProject.pdb
